@@ -1,0 +1,26 @@
+name: test
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [22, 24]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Unit and handler tests (offline, no install needed)
+        run: npm test
+      - name: Install Miniflare
+        run: npm ci --no-audit --no-fund
+      - name: Run the Worker inside workerd with a local D1
+        run: npm run test:workerd

@@ -1,0 +1,24 @@
+# card-catalog on Cloudflare Workers (free plan is enough).
+# Steps are in the README. In short:
+#   npx wrangler@4.156.0 d1 create card-catalog      -> paste the database_id below
+#   npx wrangler@4.156.0 secret put CATALOG_TOKEN    -> any long random string; your agents send it as a bearer token
+#   npx wrangler@4.156.0 deploy
+
+name = "card-catalog"
+main = "src/index.js"
+compatibility_date = "2025-11-01"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "card-catalog"
+database_id = "<your-d1-database-id>"
+
+[vars]
+# Realms: a letter and a name each. The letter starts every card number in that realm (W-000042).
+# The first one is the default. Example: "W:work,H:home,S:system"
+REALMS = "N:notes"
+# Name shown on the web page and to agents.
+CATALOG_TITLE = "Card catalog"
+# "true" lets anyone with the URL read the web page (cards included). Keep "false" unless the catalog is a public demo.
+PUBLIC_PAGE = "false"

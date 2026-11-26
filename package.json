@@ -1,0 +1,32 @@
+{
+  "name": "card-catalog",
+  "version": "0.1.0",
+  "description": "A personal card catalog MCP server for Cloudflare Workers: numbered cards your AI agents ask first.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning scripts/dev.mjs --seed",
+    "dev": "node --disable-warning=ExperimentalWarning scripts/dev.mjs",
+    "seed": "node scripts/seed.mjs",
+    "test": "node --disable-warning=ExperimentalWarning --test test/*.test.js",
+    "test:workerd": "node --test test/workerd/*.test.js",
+    "deploy": "npx wrangler@4.156.0 deploy"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "cloudflare-workers",
+    "d1",
+    "agents",
+    "memory",
+    "card-catalog"
+  ],
+  "devDependencies": {
+    "miniflare": "4.20260730.0"
+  }
+}

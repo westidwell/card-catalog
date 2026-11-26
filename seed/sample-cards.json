@@ -1,0 +1,152 @@
+{
+  "about": "Made-up sample cards from the made-up Turnip Hollow Community Garden Club. Every name, plot and event here is fictional.",
+  "cards": [
+    {
+      "shelf": "Spring planning",
+      "source": "Spring planning meeting minutes",
+      "blurb": "Spring work day set for the first Saturday after the last frost; Otis runs the sign-up sheet",
+      "tags": ["work-day", "schedule"],
+      "text": "Spring planning meeting, held in the tool shed. Eleven members came. We agreed the spring work day is the first Saturday after the last frost date, starting at 9 and finishing by noon. Otis will run the sign-up sheet and pin it to the shed door."
+    },
+    {
+      "shelf": "Spring planning",
+      "source": "Spring planning meeting minutes",
+      "blurb": "Raised beds 3 and 7 need new boards before planting; club pays from the repair fund",
+      "tags": ["raised-beds", "repairs", "budget"],
+      "text": "Raised beds 3 and 7 have rotten corner boards. Ferris measured them: four boards each, untreated cedar. The club will pay from the repair fund, which has enough for this but not much else until the plant sale."
+    },
+    {
+      "shelf": "Spring planning",
+      "source": "Spring planning meeting minutes",
+      "blurb": "Plant sale moved to the second Sunday in May so it doesn't clash with the school fair",
+      "tags": ["plant-sale", "schedule", "fundraising"],
+      "text": "The plant sale moves to the second Sunday in May. Last year it clashed with the school fair and we sold half as many seedlings. Juniper will ask the library if we can put a poster in the window."
+    },
+    {
+      "shelf": "Spring planning",
+      "source": "Spring planning meeting minutes",
+      "blurb": "New rule: hoses go back on the reel after every use, after two were run over by the mower",
+      "tags": ["rules", "watering", "tools"],
+      "text": "Two hoses were run over by the mower last autumn. New rule from today: hoses go back on the reel after every use, no exceptions. Bea will paint a reminder on the reel."
+    },
+    {
+      "shelf": "Compost",
+      "source": "Compost committee chat",
+      "blurb": "Compost bins 1 and 2 are full; bin 3 is the one to add to until the turn",
+      "tags": ["compost", "bins"],
+      "text": "Bea: Bins 1 and 2 are full to the top. Please only add to bin 3 until we turn them.\nHollis: Noted. I'll put a sign on bin 3 so people stop piling onto 2."
+    },
+    {
+      "shelf": "Compost",
+      "source": "Compost committee chat",
+      "blurb": "Turning day for the compost is the Sunday after the work day; bring forks and gloves",
+      "tags": ["compost", "work-day", "schedule"],
+      "text": "Hollis: Turning day is the Sunday after the work day, 10 o'clock. Bring a fork and gloves.\nBea: I'll bring the thermometer so we can check the middle of bin 1 is hot enough."
+    },
+    {
+      "shelf": "Compost",
+      "source": "Compost committee chat",
+      "blurb": "No citrus peel, onions or cooked food in the bins: it brought the rats last year",
+      "tags": ["compost", "rules", "pests"],
+      "text": "Marigold: Reminder for everyone: no citrus peel, onions or cooked food in the compost. Cooked food is what brought the rats last year. Coffee grounds and eggshells are fine."
+    },
+    {
+      "shelf": "Compost",
+      "source": "Compost committee chat",
+      "blurb": "Bin lids are warped; Ferris will build new ones from the leftover bed boards",
+      "tags": ["compost", "repairs"],
+      "text": "Ferris: The bin lids are warped and rain gets in. If the cedar order for beds 3 and 7 has offcuts, I'll make new lids from those instead of buying more wood."
+    },
+    {
+      "shelf": "Water rota",
+      "source": "Water rota call",
+      "blurb": "Summer watering rota is two people a week, Monday to Sunday, swapped on the group chat",
+      "tags": ["watering", "rota", "summer"],
+      "text": "Call about the summer watering rota. We settled on two people per week, Monday to Sunday. If you can't do your week, swap it on the group chat and tell Juniper so the sheet stays right."
+    },
+    {
+      "shelf": "Water rota",
+      "source": "Water rota call",
+      "blurb": "Water early morning or after 6pm only; midday watering wastes the tank",
+      "tags": ["watering", "rules"],
+      "text": "Water before 9 in the morning or after 6 in the evening. Watering at midday mostly evaporates and the rain tank runs dry by July if we do it."
+    },
+    {
+      "shelf": "Water rota",
+      "source": "Water rota call",
+      "blurb": "Rain tank tap leaks; Otis ordered a new washer and will fit it on the work day",
+      "tags": ["watering", "repairs", "rain-tank"],
+      "text": "The tap on the rain tank drips all night. Otis ordered a new washer and will fit it on the work day. Until then, close the tap fully and put the bucket under it."
+    },
+    {
+      "shelf": "Seed swap",
+      "source": "Seed swap flyer draft",
+      "blurb": "Seed swap is in the shed on the first Saturday of March, 10 to 1, free to everyone",
+      "tags": ["seed-swap", "event"],
+      "text": "Draft flyer: Turnip Hollow Seed Swap. First Saturday of March, 10 to 1, in the garden shed. Free to everyone, members or not. Bring seeds in labelled envelopes, take what you'll grow."
+    },
+    {
+      "shelf": "Seed swap",
+      "source": "Seed swap flyer draft",
+      "blurb": "Label every envelope with plant, variety and the year the seed was saved",
+      "tags": ["seed-swap", "rules"],
+      "text": "Please label every envelope with the plant, the variety and the year the seed was saved. Seeds older than three years go on the 'try your luck' table."
+    },
+    {
+      "shelf": "Seed swap",
+      "source": "Seed swap flyer draft",
+      "blurb": "Tomato seedlings for the swap come from Marigold's greenhouse: three varieties",
+      "tags": ["seed-swap", "tomatoes", "seedlings"],
+      "text": "Marigold is growing tomato seedlings for the swap: a cherry, a beefsteak and a yellow pear. Thirty of each, one per person until noon, then take what's left."
+    },
+    {
+      "shelf": "Seed swap",
+      "source": "Seed swap sign-ups",
+      "blurb": "Six volunteers signed up for the seed swap; still need someone on the welcome table",
+      "tags": ["seed-swap", "volunteers"],
+      "text": "Sign-ups so far: Otis (setup), Bea and Hollis (sorting table), Juniper (posters), Marigold (seedlings), Ferris (packing up). Still need one person on the welcome table from 10 to 11."
+    },
+    {
+      "shelf": "Seed swap",
+      "source": "Seed swap sign-ups",
+      "blurb": "Welcome table covered: Hollis takes 10 to 11, then moves to sorting",
+      "tags": ["seed-swap", "volunteers"],
+      "text": "Update: Hollis will do the welcome table from 10 to 11, then move to the sorting table. That covers every slot."
+    },
+    {
+      "shelf": "Plots and members",
+      "source": "Plot map notes",
+      "blurb": "Plots 1 to 12 run north to south; the shed and the rain tank are at the north end",
+      "tags": ["plots", "map"],
+      "text": "The plots are numbered 1 to 12 from north to south. The shed and the rain tank sit at the north end by the gate. Plots 11 and 12 get afternoon shade from the hedge."
+    },
+    {
+      "shelf": "Plots and members",
+      "source": "Plot map notes",
+      "blurb": "Plot 9 is free; first person on the waiting list gets it at the spring work day",
+      "tags": ["plots", "waiting-list"],
+      "text": "Plot 9 is free this year. The first person on the waiting list gets it, and Juniper will show them round on the spring work day."
+    },
+    {
+      "shelf": "Plots and members",
+      "source": "Plot map notes",
+      "blurb": "Raised beds 3 and 7 belong to the shared herb garden, not to a member",
+      "tags": ["plots", "raised-beds", "herbs"],
+      "text": "Raised beds 3 and 7 are the shared herb garden. Anyone can pick from them. Please cut herbs with scissors rather than pulling, so they grow back."
+    },
+    {
+      "shelf": "Pests",
+      "source": "Aphid thread",
+      "blurb": "Aphids on the broad beans in plots 4 and 5; try a hard spray of water before anything else",
+      "tags": ["pests", "aphids", "beans"],
+      "text": "Otis: Black aphids all over the broad beans in plots 4 and 5.\nMarigold: Knock them off with a hard spray of water first, and pinch out the bean tips. It usually does the job."
+    },
+    {
+      "shelf": "Pests",
+      "source": "Aphid thread",
+      "blurb": "Ladybirds are back by the beans; no spray needed this year",
+      "tags": ["pests", "aphids", "beans", "ladybirds"],
+      "text": "Otis: Update on the beans: the ladybirds have turned up and the aphids are mostly gone. No spray needed."
+    }
+  ]
+}
